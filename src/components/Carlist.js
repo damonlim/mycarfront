@@ -129,7 +129,7 @@ class Carlist extends Component {
         </Grid>
         <ReactTable data={this.state.cars} columns={columns} 
           filterable={true}/>
-        <ToastContainer autoClose={1501} /> 
+        <ToastContainer autoClose={1502} /> 
       </div>
     );
   }
